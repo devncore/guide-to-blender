@@ -2,7 +2,7 @@
   <a href="https://www.leagueoflegends.com/en-us/">
   </a>
  
-  <h1>WPF League of Legends</h1>
+  <h1>The Easiest Blender</h1>
   Blender에 대해 설명하는 레포지토리입니다.
  
   <br />  
