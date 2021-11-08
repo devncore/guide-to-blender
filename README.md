@@ -39,11 +39,11 @@
 
 2. 단축키
 
-Tab: 
-Ctrl+R:
-Alt+Z:
-S:
-G:
+- Tab: 
+- Ctrl+R:
+- Alt+Z:
+- S:
+- G:
 
 ## 2. 기계 및 제품 디자인
 TBD...
