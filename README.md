@@ -52,5 +52,6 @@
 <br />
 
 ### 3. 기계 및 제품 디자인
-<img src="https://user-images.githubusercontent.com/74305823/141235709-c2023091-1ab7-4a82-844c-d170abae3f32.jpg" width="300"/>
+- 반도체기기  
+  <img src="https://user-images.githubusercontent.com/74305823/141235709-c2023091-1ab7-4a82-844c-d170abae3f32.jpg" width="300"/>
 
