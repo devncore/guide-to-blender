@@ -48,7 +48,9 @@
 - **`Ctrl + Shift + B`** 포인트 크기 변경  
 - **`Shift + D`** 객체 복제  
 - **`Shift + D + Mouse Wheel`** 수평맞추면서 복제
-
+- **`Ctrl + B`** Bavel 모서리 부드럽게
+- **`Ctrl + A Scale`** 스케일 현재 기준으로 초기화 1, 1, 1
+- **`Ctrl + A Rotation`** Rotation 현재 기준으로 초기화 0도
 <br />
 
 ### 3. 기계 및 제품 디자인
