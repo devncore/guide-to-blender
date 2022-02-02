@@ -6,7 +6,7 @@
  
 | Star | License | Activity |
 |:----:|:-------:|:--------:|
-| <a href="https://github.com/devncore/the-easiest-blender/stargazers"><img src="https://img.shields.io/github/stars/devncore/the-easiest-blender" alt="Github Stars"></a> | <img src="https://img.shields.io/github/license/devncore/the-easiest-blender" alt="License"> | <a href="https://github.com/devncore/the-easiest-blender/pulse"><img src="https://img.shields.io/github/commit-activity/m/devncore/the-easiest-blender" alt="Commits-per-month"></a> |
+| <a href="https://github.com/devncore/guide-to-blender/stargazers"><img src="https://img.shields.io/github/stars/devncore/guide-to-blender" alt="Github Stars"></a> | <img src="https://img.shields.io/github/license/devncore/guide-to-blender" alt="License"> | <a href="https://github.com/devncore/guide-to-blender/pulse"><img src="https://img.shields.io/github/commit-activity/m/devncore/guide-to-blender" alt="Commits-per-month"></a> |
 
 <br />
 
